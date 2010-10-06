@@ -8,5 +8,6 @@ group :development, :test do
   gem 'rspec', '2.0.0.beta.18'
   gem 'autotest', '4.3.2'
   gem 'autotest-rails-pure', '4.1.0'
+  gem 'heroku'
 end
 
